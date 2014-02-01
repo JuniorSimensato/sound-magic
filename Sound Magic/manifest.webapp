@@ -1,0 +1,20 @@
+ {
+	"name": "Magic Sound",
+ 	"version": "1.0",
+ 	"description": "Aprenda a identificar as notas musicais com esse jogo que relaciona o som e as cores.",
+ 	"launch_path": "/index.html",
+ 		"permissions": {
+ 			"storage": {
+ 				"description": "Required for storing and retrieving notes."
+ 			}
+		},
+	
+	"developer": 
+{	"name": "Junior Simensato",
+	"url": "juniorsimensato@outlook.com"
+	},
+	"icons": {
+	"60": "/icon60.png",
+	"128": "/icon128.png"
+	}
+}
